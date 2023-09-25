@@ -27,6 +27,7 @@
     "DataDrift_maxWassersteinDistanceFeature": "amount",
     "DataDrift_minWassersteinDistance": 1.0159,
     "DataDrift_minWassersteinDistanceFeature": "num_cards",
+    "generic_line_graph": { "title" : "Example Line Graph - XY Data", "x_axis_label": "X Axis", "y_axis_label": "Y Axis", "data": { "data1": [[1,100], [3,200], [5, 300]], "data2": [[2, 350], [4, 250], [6, 150]] } },
     "data_drift": [
         {
             "test_name": "Jensen-Shannon",
