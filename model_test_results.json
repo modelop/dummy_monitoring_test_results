@@ -31,6 +31,13 @@
     "generic_Vbar_graph": {"title" : "Example Vertical Bar Chart", "x_axis_label": "X Axis", "y_axis_label": "Y Axis", "axis_min_default": 0, "axis_max_default":2, "rotated": true, "data" : { "data1": [1, 2, 3, 4], "data2": [4, 3, 2, 1] }, "categories": ["cat1", "cat2", "cat3", "cat4"]},
     "generic_table": [{"Mydata1" : 1, "data2" : 2, "data3" : 3}, {"Mydata1" : 2, "data2" : 3, "data3": 4}, {"Mydata1" :  3, "data2" : 4, "data3" : 5}],
     "generic_line_graph": { "title" : "Example Line Graph - XY Data", "x_axis_label": "X Axis", "y_axis_label": "Y Axis", "data": { "data1": [[1,100], [3,200], [5, 300]], "data2": [[2, 350], [4, 250], [6, 150]] } },
+    "primary_performance_metrics": [
+    {"Primary Performance Metric": "OOT TTC AUC", "Threshold": "< 0.07", "Value": "n/a", "Rating": "Data Insufficient"},
+    {"Primary Performance Metric": "OOT PD After Borrower Info AUC", "Threshold": "< OOT TTC AUC", "Value": "n/a", "Rating": "Data Insufficient"},
+    {"Primary Performance Metric": "OOT PD Rating After Warning Signals AUC", "Threshold": "< OOT PD After Borrower Info AUC", "Value": "n/a", "Rating": "Data Insufficient"},
+    {"Primary Performance Metric": "OOT Final PD AUC", "Threshold": "< OOT PD After Warning Signal AUC", "Value": "n/a", "Rating": "Data Insufficient"},
+    {"Primary Performance Metric": "Net Override Rate", "Threshold": ">5%", "Value": "2%", "Rating": "Pass"}
+  ],
     "data_drift": [
         {
             "test_name": "Jensen-Shannon",
