@@ -1,5 +1,12 @@
 [
     {
+        "usage": "INPUT_ASSET",
+        "assetRole": "BASELINE_DATA",
+        "metaData": {
+            "description": "Externally generated metrics in json format"
+        }
+    },
+    {
         "usage": "ADDITIONAL_ASSET",
         "assetRole": "TEST_DATA",
         "name": ".+\\.json",
