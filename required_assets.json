@@ -3,7 +3,7 @@
         "usage": "ADDITIONAL_ASSET",
         "assetRole": "TEST_DATA",
         "name": ".+\\.json",
-        "filename": "model_test_results.json",
+        "filename": "dummy_model_test_results.json",
         "metaData": {
             "description": "Full Model Test Result for all charts and graphs"
         }
