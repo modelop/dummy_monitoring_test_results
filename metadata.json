@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "name": "Dummy model with fixed Test Results",
     "description": "Model to output Sample Test Results",
     "modelCategory": "BUSINESS_MODEL",
     "defaultAssociationRole": "METRICS_MODEL",
