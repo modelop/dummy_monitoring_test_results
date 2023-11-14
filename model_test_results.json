@@ -41,6 +41,56 @@
             "data2": [[2, 350], [4, 250],[6, 150],[1,101], [1,125], [1, 300], [4, 90], [4, 85], [4, 300]]
         }
     },
+    "generic_pie_chart": {
+        "title": "Example Pie Chart",
+        "type": "pie",
+        "data": {
+            "data1": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "data2": [
+                4,
+                3,
+                2,
+                1
+            ],
+            "data3": [
+                2,
+                1
+            ],
+            "data4": [
+                1
+            ]
+        }
+    },
+    "generic_donut_chart": {
+        "title": "Example Donut Chart",
+        "type": "donut",
+        "data": {
+            "data1": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "data2": [
+                4,
+                3,
+                2,
+                1
+            ],
+            "data3": [
+                2,
+                1
+            ],
+            "data4": [
+                1
+            ]
+        }
+    },
     "primary_performance_metrics": [
     {"Primary Performance Metric": "OOT TTC AUC", "Threshold": "< 0.07", "Value": "n/a", "Rating": "Data Insufficient"},
     {"Primary Performance Metric": "OOT PD After Borrower Info AUC", "Threshold": "< OOT TTC AUC", "Value": "n/a", "Rating": "Data Insufficient"},
