@@ -1,7 +1,8 @@
 {
     "tags": [],
     "description": "Model to output Sample Test Results",
-    "defaultAssociationRole": "METRICS_MODEL",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "PERFORMANCE_MODEL",
     "frequentlyUsed": true,
     "custom": {
         "Intended_Usage": "This model is to be used to demonstrate monitoring visualizations in MOC",
