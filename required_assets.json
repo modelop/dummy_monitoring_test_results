@@ -8,7 +8,7 @@
     },
     {
         "usage": "ADDITIONAL_ASSET",
-        "assetRole": "TEST_DATA",
+        "assetRole": "UNKNOWN",
         "name": ".+\\.json",
         "filename": "model_test_results.json",
         "metaData": {
