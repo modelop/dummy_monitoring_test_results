@@ -10,7 +10,7 @@
         "usage": "ADDITIONAL_ASSET",
         "assetRole": "UNKNOWN",
         "name": ".+\\.json",
-        "filename": "model_test_results.json",
+        "filename": "example_model_test_results.json",
         "metaData": {
             "description": "Full Model Test Result for all charts and graphs"
         }
