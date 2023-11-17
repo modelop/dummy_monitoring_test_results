@@ -39,79 +39,121 @@
         1,
         2,
         3,
-        4
+        4,
+        234,
+        2234,
+        9234
       ],
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname2": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname3": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname4": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname5": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname6": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname7": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname8": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname9": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname10": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname11": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ],"extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname12": [
         4,
         3,
         2,
-        1
+        1,
+        234,
+        2234,
+        9234
       ]
     },
     "categories": [
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname",
       "cat2",
       "cat3",
-      "cat4"
+      "cat4",
+        "cat323",
+        "cat423",
+        "cat523"
     ]
   },
   "generic_Vbar_graph": {
