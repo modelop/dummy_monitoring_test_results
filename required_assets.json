@@ -8,7 +8,7 @@
     },
     {
         "usage": "ADDITIONAL_ASSET",
-        "assetRole": "UNKNOWN",
+        "assetRole": "MODEL_TEST_SOURCE",
         "name": ".+\\.json",
         "filename": "example_model_test_results.json",
         "metaData": {
