@@ -672,6 +672,69 @@
             }
         }
     ],
+      "generic_scatter_plot": {
+    "title": "Example Scatter Plot",
+    "x_axis_label": "X Axis",
+    "y_axis_label": "Y Axis",
+    "type": "scatter",
+    "data": {
+      "Value1": [[1,100],[3,200],[5,300],[2,101],[1,105],[1,320],[2,90],[2,85],[6,300]],
+      "Value2": [[1,100],[3,200],[5,300],[2,101],[1,105],[1,320],[2,90],[2,85],[6,300]],
+      "Value3": [[1,100],[3,200],[5,300],[2,101],[1,105],[1,320],[2,90],[2,85],[6,300]],
+      "Value4": [[1,100],[3,200],[5,300],[2,101],[1,105],[1,320],[2,90],[2,85],[6,300]],
+      "Value5": [[1,100],[3,200],[5,300],[2,101],[1,105],[1,320],[2,90],[2,85],[6,300]]
+ }
+  },
+  "generic_pie_chart": {
+    "title": "Example Pie Chart",
+    "type": "pie",
+    "data": {
+      "data1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "data2": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "data3": [
+        2,
+        1
+      ],
+      "data4": [
+        1
+      ]
+    }
+  },
+  "generic_donut_chart": {
+    "title": "Example Donut Chart",
+    "type": "donut",
+    "data": {
+      "data1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "data2": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "data3": [
+        2,
+        1
+      ],
+      "data4": [
+        1
+      ]
+    }
+  },
     "CSI_maxCSIValue": 1.296161,
     "CSI_maxCSIValueFeature": "amount_CSI",
     "CSI_minCSIValue": 0.014769,
