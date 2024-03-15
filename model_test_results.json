@@ -1,4 +1,5 @@
 {
+  "test_url_clickable": "https://www.modelop.com/",
   "DataDrift_maxJensen-ShannonDistance": 0.1362,
   "DataDrift_maxJensen-ShannonDistanceFeature": "amount",
   "DataDrift_minJensen-ShannonDistance": 0.0694,
@@ -392,7 +393,7 @@
   "generic_table": [
     {
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname": 1,
-      "data2": 2,
+      "data2": "https://www.modelop.com/",
       "data3": 3,
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname2": 1,
       "data4": 2,
@@ -407,7 +408,7 @@
       "data3": 3,
       "extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname_extremelylongdatacolumnname2": 1,
       "data4": 2,
-      "data5": "asdfasdafsdf",
+      "data5": "https://www.modelop.com/",
       "data6": "asdfasdafsdf",
       "data7": "asdfasdafsdf",
       "data8": "asdfasdafsdf"
